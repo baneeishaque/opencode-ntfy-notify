@@ -1,0 +1,10 @@
+{
+  "name": "opencode-ntfy-notify",
+  "version": "0.1.0",
+  "description": "opencode plugin: audible out-of-band ntfy alerts for session done, session error and permission prompts on headless hosts.",
+  "license": "MIT",
+  "type": "module",
+  "devDependencies": {
+    "@opencode-ai/plugin": "^1.18.34"
+  }
+}
